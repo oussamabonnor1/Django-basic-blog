@@ -30,15 +30,15 @@
 .top-menu, .top-menu:hover, .top-menu:visited {
     color: #ffffff;
     float: right;
-    font-size: 26pt;
-    margin-right: 20px;
+    font-size: 14pt;
+    margin: 30px;
 }
 
 .post{
     margin-bottom: 70px;
 }
 
-h1 a{
+h1 a, h2{
     color: #3F3D56;
     font-family: 'Lobster';
 }
